@@ -1,0 +1,73 @@
+[
+    {
+        "id":1,
+        "name":"Potus",
+        "price":6,
+        "category":"int"
+
+    },
+    {
+        "id":2,
+        "name":"Orquidea",
+        "price":15,
+        "category":"int"
+
+    },
+    {
+        "id":3,
+        "name":"Helecho",
+        "price":7,
+        "category":"int"
+
+    },
+    {
+        "id":4,
+        "name":"Cactus",
+        "price":3,
+        "category":"ext"
+
+    },
+    {
+        "id":5,
+        "name":"Lazo de amor",
+        "price":5,
+        "category":"int"
+
+
+    },
+    {
+        "id":6,
+        "name":"Alegria Del Hogar",
+        "price":8,
+        "category":"ext"
+
+    },
+    {
+        "id":7,
+        "name":"Begonia",
+        "price":4,
+        "category":"ext"
+
+    },
+    {
+        "id":8,
+        "name":"Pilea",
+        "price":5,
+        "category":"int"
+
+    },
+    {
+        "id":9,
+        "name":"Ficus",
+        "price":14,
+        "category":"ext"
+
+    },
+    {
+        "id":10,
+        "name":"Rayito de sol",
+        "price":6,
+        "category":"ext"
+
+    }
+]
